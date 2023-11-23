@@ -1,4 +1,4 @@
-# Bellabeat Case Study 
+# Case Study for Google's Capstone 
 A capstone project from Google's data analytics certificate on [Coursera](https://www.coursera.org/professional-certificates/google-data-analytics)
 
 # Business Task 
