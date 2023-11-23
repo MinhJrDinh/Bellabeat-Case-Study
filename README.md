@@ -8,4 +8,4 @@ and seeing trends from this raw data to better inform a company's decision-makin
 # Notes
 - Code is written using the R language
 - This is my first project so comments are welcome and appreciated
-- More details can be found in the jupyter notebook file
+- More details can be found in the jupyter notebook file: 'case-study-for-bellabeat.ipynb'
