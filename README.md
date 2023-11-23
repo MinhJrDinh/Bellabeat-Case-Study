@@ -1,5 +1,5 @@
-# GoogleCapstone1
-A capstone case study from Google's data analytics certificate on [Coursera](https://www.coursera.org/professional-certificates/google-data-analytics)
+# Bellabeat Case Study 
+A capstone project from Google's data analytics certificate on [Coursera](https://www.coursera.org/professional-certificates/google-data-analytics)
 
 # Business Task 
 I was tasked with using a public dataset from [Kaggle](https://www.kaggle.com/datasets/arashnic/fitbit)
