@@ -1,9 +1,9 @@
-# Case Study for Google's Capstone 
+# Google Capstone 
 A capstone project from Google's data analytics certificate on [Coursera](https://www.coursera.org/professional-certificates/google-data-analytics)
 
 # Business Task 
 I was tasked with using a public dataset from [Kaggle](https://www.kaggle.com/datasets/arashnic/fitbit)
-and seeing trends from this raw data to better inform a company's decision-making on its smart watch device
+and seeing trends from this raw data to better inform a tech company (Bellabeat) on its smartwatch device
 
 # Notes
 - Code is written using the R language
