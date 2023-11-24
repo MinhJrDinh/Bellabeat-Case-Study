@@ -7,3 +7,4 @@ I was tasked with using a public dataset from [Kaggle](https://www.kaggle.com/da
 # Notes
 - Code is written using the R language in jupyter notebook 
 - More details can be found in the file: 'bellabeat-case-study.ipynb'
+- I've also uploaded a Kaggle [notebook](https://www.kaggle.com/code/minhjuniordinh/google-data-analytics-bellabeat-case-study)
